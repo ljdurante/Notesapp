@@ -1,0 +1,23 @@
+{
+  "name": "notesapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljdurante/Employee-Summary-generator-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljdurante/Employee-Summary-generator-/issues"
+  },
+  "homepage": "https://github.com/ljdurante/Employee-Summary-generator-#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "yargs": "^15.1.0"
+  }
+}
